@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndriodFrameLayout</string>
+    <string name="big">大的</string>
+    <string name="middle">中的</string>
+    <string name="small">小的</string>
+
+
+</resources>

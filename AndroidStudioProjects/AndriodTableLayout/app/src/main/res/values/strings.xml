@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndriodTableLayout</string>
+    <string name="tv1">我自己十一行。。。。。。。。。。。。。。。。。。。。。。</string>
+    <string name="tvShort">我的内容少</string>
+    <string name="tvStrech">我是将要被拉伸的一列</string>
+    <string name="tvShrink">我是将要被压缩的一列我是将要被压缩的一列我是将要被压缩的一列</string>
+    <string name="tvLong">我是内容较长的一列我是内容较长的一列我是内容较长的一列我是内容较长的一列我是内容较长的一列我是内容较长的一列我是内容较长的一列我是内容较长的一列我是内容较长的一列我是内容较长的一列我是内容较长的一列</string>
+</resources>

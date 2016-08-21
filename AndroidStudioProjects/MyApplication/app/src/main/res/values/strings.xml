@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">请选择喜欢的情景模式</string>
+    <string name="profile1">上班模式</string>
+    <string name="profile2">家庭模式</string>
+    <string name="profile3">旅游模式</string>
+    <string name="profile4">会议模式</string>
+
+</resources>
